@@ -49,7 +49,7 @@ query queryCourses {
   }
 }
 
-query queryCoursesWithCaregory {
+query queryCoursesWithCategory {
   courses {
     id
     title
